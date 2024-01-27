@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/PyCloud-Task/static/css/main.e9a6834c.css",
+    "main.js": "/PyCloud-Task/static/js/main.6c20209a.js",
+    "static/media/background.png": "/PyCloud-Task/static/media/background.81f64c3b84f37b374e4e.png",
+    "static/media/contact.png": "/PyCloud-Task/static/media/contact.a633871623fc0916c818.png",
+    "static/media/world.png": "/PyCloud-Task/static/media/world.0b8062373f1c35a8d017.png",
+    "static/media/tech.png": "/PyCloud-Task/static/media/tech.11687c67d0faa9183d5a.png",
+    "static/media/men.png": "/PyCloud-Task/static/media/men.94190f1ad4f4ecdd83ff.png",
+    "static/media/client.png": "/PyCloud-Task/static/media/client.9cdde64391126739d375.png",
+    "static/media/innovate.png": "/PyCloud-Task/static/media/innovate.12926a0da839a6c719de.png",
+    "static/media/cloud.png": "/PyCloud-Task/static/media/cloud.db7075f4851c56ab0025.png",
+    "static/media/devops.png": "/PyCloud-Task/static/media/devops.1f7ec841e6a87de20089.png",
+    "static/media/program.png": "/PyCloud-Task/static/media/program.b0b2d22fe2aa0ec5a0f5.png",
+    "static/media/support.png": "/PyCloud-Task/static/media/support.0f1ef67d68b873b193fb.png",
+    "static/media/collab.png": "/PyCloud-Task/static/media/collab.506bc0cc2888e69db8a9.png",
+    "static/media/project.png": "/PyCloud-Task/static/media/project.c96aa2ecbc56f43014c1.png",
+    "static/media/training.png": "/PyCloud-Task/static/media/training.476eab5a2a577b5daf9b.png",
+    "static/media/logo.png": "/PyCloud-Task/static/media/logo.fcb495cc08e0ffffe077.png",
+    "index.html": "/PyCloud-Task/index.html",
+    "main.e9a6834c.css.map": "/PyCloud-Task/static/css/main.e9a6834c.css.map",
+    "main.6c20209a.js.map": "/PyCloud-Task/static/js/main.6c20209a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a6834c.css",
+    "static/js/main.6c20209a.js"
+  ]
+}
